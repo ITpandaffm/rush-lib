@@ -7,9 +7,11 @@ importers:
 
   ../../packages/components:
     specifiers:
+      '@minxu/hooks': workspace:*
       react: ~18.2.0
       react-dom: ~18.2.0
     dependencies:
+      '@minxu/hooks': link:../hooks
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
 
