@@ -1,0 +1,22 @@
+{
+  "name": "@minxu/components",
+  "entries": [
+    {
+      "version": "1.1.0",
+      "tag": "@minxu/components_v1.1.0",
+      "date": "Mon, 05 Sep 2022 13:53:54 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "添加组件"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@minxu/hooks\" to `1.1.0`"
+          }
+        ]
+      }
+    }
+  ]
+}
