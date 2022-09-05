@@ -1,1 +1,3 @@
 export const count = 12345;
+
+console.log('changeee');
