@@ -1,6 +1,13 @@
 # Change Log - @minxu/components
 
-This log was last generated on Mon, 05 Sep 2022 14:20:48 GMT and should not be manually modified.
+This log was last generated on Mon, 05 Sep 2022 14:23:30 GMT and should not be manually modified.
+
+## 1.2.2
+Mon, 05 Sep 2022 14:23:30 GMT
+
+### Patches
+
+- debug publish
 
 ## 1.2.1
 Mon, 05 Sep 2022 14:20:48 GMT

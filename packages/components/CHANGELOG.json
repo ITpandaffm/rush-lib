@@ -2,6 +2,23 @@
   "name": "@minxu/components",
   "entries": [
     {
+      "version": "1.2.2",
+      "tag": "@minxu/components_v1.2.2",
+      "date": "Mon, 05 Sep 2022 14:23:30 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "debug publish"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@minxu/hooks\" to `1.2.2`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.2.1",
       "tag": "@minxu/components_v1.2.1",
       "date": "Mon, 05 Sep 2022 14:20:48 GMT",
