@@ -1,6 +1,13 @@
 # Change Log - @minxu/hooks
 
-This log was last generated on Mon, 05 Sep 2022 14:18:46 GMT and should not be manually modified.
+This log was last generated on Mon, 05 Sep 2022 14:20:48 GMT and should not be manually modified.
+
+## 1.2.1
+Mon, 05 Sep 2022 14:20:48 GMT
+
+### Patches
+
+- test publish debug
 
 ## 1.2.0
 Mon, 05 Sep 2022 14:18:46 GMT
