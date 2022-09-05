@@ -2,6 +2,18 @@
   "name": "@minxu/hooks",
   "entries": [
     {
+      "version": "1.2.4",
+      "tag": "@minxu/hooks_v1.2.4",
+      "date": "Mon, 05 Sep 2022 14:30:26 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "debug1"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.2.3",
       "tag": "@minxu/hooks_v1.2.3",
       "date": "Mon, 05 Sep 2022 14:25:08 GMT",
